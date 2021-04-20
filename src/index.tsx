@@ -1,8 +1,17 @@
+/*
+ * @Descripttion: 
+ * @Author: Wei
+ * @Date: 2021-04-20 21:57:53
+ * @LastEditors: Wei
+ * @LastEditTime: 2021-04-20 22:56:56
+ * @FilePath: \CycleProduction\src\index.tsx
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'antd/dist/antd.less';
+
 
 ReactDOM.render(
   <React.StrictMode>
